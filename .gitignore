@@ -10,3 +10,4 @@ apps/ecs/ecs-cli/ecs-params_*.yaml
 readme.html
 **/~$*.pptx
 services
+*.code-workspace
